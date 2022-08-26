@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+body {
+	font-family: "Open Sans";
+}
+
+.navigation {
+	font-size: 12px;
+	width: 80%;
+}
+
+.ToC {
+	font-size: 22px;
+	color: #808080;
+}
+
+.markers {
+	list-style-type:  none;
+	padding-left: 0;
+}
+
+
+
+/*
+"list-markers" не работает как класс
+*/
