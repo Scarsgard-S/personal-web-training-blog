@@ -1,11 +1,22 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 body {
 	font-family: "Open Sans";
+	padding: 0 20px;
+}
+
+.h1 {
+	text-align: center;
 }
 
 .navigation {
 	font-size: 12px;
 	width: 80%;
+}
+
+li {
+	margin-bottom: 5px;
+	padding-left: 5px;
+	border-left: 2px solid #6495ED;
 }
 
 .ToC {
@@ -16,6 +27,21 @@ body {
 .markers {
 	list-style-type:  none;
 	padding-left: 0;
+}
+
+a {
+	color: #1E90FF;
+}
+
+.section {
+	font-size: 20px;
+	padding-top: 20px;
+	text-indent:  1.5em;
+	text-align: justify;
+}
+
+.footer {
+	padding-bottom: 50px;
 }
 
 
