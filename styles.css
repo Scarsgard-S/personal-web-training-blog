@@ -33,19 +33,36 @@ a {
 	color: #1E90FF;
 }
 
-.section {
-	font-size: 20px;
+.section-main {
+	font-size: 18px;
 	padding-top: 20px;
 	text-indent:  1.5em;
 	text-align: justify;
+	width: 75%;
+	text-align: justify;
+}
+
+.section-day {
+	font-size: 18px;
+	padding-top: 20px;
+	text-indent:  1.5em;
+	text-align: justify;
+	width: 75%;
+	color: #FFFAFA;
+	border: 1px solid #00BFFF;
+	background-color: #00BFFF;
+	padding: 10px 15px;
+	border-radius: 5px;
 }
 
 .footer {
 	padding-bottom: 50px;
 }
 
-
-
 /*
 "list-markers" не работает как класс
 */
+
+.header-highlighting {
+	text-decoraton: underline;
+}
