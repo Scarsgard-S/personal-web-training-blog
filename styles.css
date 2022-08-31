@@ -68,9 +68,17 @@ a {
 }
 
 figcaption {
-  width: 1000px;
   padding-bottom: 8px;
   font-size: 16px;
   letter-spacing: 0.02em;
   text-align: center;
   background-color: rgb(202, 224, 248);
+}
+
+.img-rows-2 {
+	width: 45%;
+  padding: 0px 15px;
+  display:  inline-block;
+ }
+
+
