@@ -64,10 +64,11 @@ a {
 */
 
 .header-highlighting {
-	text-decoraton: underline;
+	text-decoration: underline;
 }
 
 figcaption {
+  padding-top: 0;
   padding-bottom: 8px;
   font-size: 16px;
   letter-spacing: 0.02em;
@@ -81,4 +82,9 @@ figcaption {
   display:  inline-block;
  }
 
+ /* .img-style {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+ } */
 
