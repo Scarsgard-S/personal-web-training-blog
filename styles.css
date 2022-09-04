@@ -33,6 +33,10 @@ a {
 	color: #1E90FF;
 }
 
+a:visited, a:focus, a:hover {
+	color: #191970
+}
+
 .section-main {
 	font-size: 18px;
 	padding-top: 20px;
@@ -87,4 +91,5 @@ figcaption {
 	margin-left: auto;
 	margin-right: auto;
  } */
+
 
