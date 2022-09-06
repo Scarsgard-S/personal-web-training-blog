@@ -16,7 +16,12 @@ body {
 li {
 	margin-bottom: 5px;
 	padding-left: 5px;
-	border-left: 2px solid #6495ED;
+	border-left: 2px solid #6495ED; 
+}
+
+.code-line-number {
+	margin: 0;
+	padding: 4px;
 }
 
 .ToC {
@@ -24,9 +29,14 @@ li {
 	color: #808080;
 }
 
-.markers {
-	list-style-type:  none;
+.no-markers {
+		list-style-type:  none;
 	padding-left: 0;
+}
+
+.no-markers-padding {
+	list-style-type: none;
+	padding-left: 1.5em;
 }
 
 a {
