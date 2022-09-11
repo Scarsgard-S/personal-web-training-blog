@@ -81,6 +81,20 @@ a:visited, a:focus, a:hover {
 	border-radius: 5px;
 }
 
+.long-text {
+	font-size: 18px;
+	padding-top: 20px;
+	text-indent:  1.5em;
+	text-align: justify;
+	width: 50%;
+	color: #40E0D0;
+	padding: 10px 15px;
+	border-radius: 5px;
+}
+
+.secret {
+	color: #D3D3D3;
+}
 .footer {
 	padding-bottom: 50px;
 }
@@ -114,4 +128,88 @@ figcaption {
 	margin-right: auto;
  } */
 
+ .best-day-13 {
+	color: #B1F100;
+ }
 
+ .best-day-13:hover {
+	color: #91B52D;
+ }
+ .best-day-13:visited {
+	color: #739D00;
+ }
+ .best-day-13:focus {
+	color: #C7F83E;
+ }
+
+ .best-day-16 {
+	color: #34D800;
+ }
+
+ .best-day-16:hover {
+	color: #46A229;
+ }
+
+ .best-day-16:visited {
+	color: #228D00;
+ }
+
+ .best-day-16:focus {
+	color: #89EC6A;
+ }
+
+ .best-day-17 {
+	color: #FFF500;
+ }
+
+ .best-day-17:hover {
+	color: #BFBA30;
+ }
+
+ .best-day-17:visited {
+	color: #A69F00;
+ }
+
+ .best-day-17:focus {
+	color: #FFFA73;
+ }
+
+ .best-day-18 {
+	color: #C10087;
+ }
+
+ .best-day-18:hover {
+	color: #912470;
+ }
+
+ .best-day-18:visited {
+	color: #7D0057;
+ }
+
+ .best-day-18:focus {
+	color: #E065BB;
+ }
+
+ .best-day-19 {
+	color: #640CAB;
+ }
+
+ .best-day-19:hover {
+	color: #582781;
+ }
+
+ .best-day-19:visited {
+	color: #9240D5;
+ }
+
+ .best-day-19:focus {
+	color: #A468D5;
+ }
+
+ .secret {
+	color: #B0E0E6;
+}
+.secret:visited, .secret:focus, .secret:hover {
+	color: #B0C4DE;
+}
+ /* link, visited, focus, hover */
