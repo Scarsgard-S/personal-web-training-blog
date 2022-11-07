@@ -252,7 +252,7 @@ figcaption {
 
  /* Можно убрать */
  #bg1 {
-	background-color: #115511;
+	background-color: #b0caf6;
  }
 
  .first-day {
@@ -284,3 +284,30 @@ figcaption {
 	background-image: url("img/sprites.jpg");
 	background-position: -64px -100px;
  }
+
+ #margin-collapse-1 {
+	margin-bottom: 50px;
+ }
+
+.border-1 {
+	/* border:2px solid #1e90ff; */
+}
+
+ #margin-collapse-2 {
+	margin-top: 20px;
+ }
+
+ .border-2 {
+	/* Рамка убирает схлопывание */
+	/* border:2px solid #007dff; */
+}
+
+.hidden-text {
+	position: absolute;
+	left: 80px;
+	top: 315px;
+	color: #9f9f9f;
+}
+
+
+
