@@ -305,7 +305,7 @@ figcaption {
 .hidden-text-1 {
 	position: absolute;
 	left: 80px;
-	top: 300px;
+	top: 270px;
 	color: #9f9f9f;
 }
 
@@ -318,7 +318,7 @@ figcaption {
 	position: absolute;
 	width: 400px;
 	left: 270px;
-	top: 480px;
+	top: 450px;
 	color: #9f9f9f;
 }
 
@@ -361,8 +361,25 @@ figcaption {
 }
 
 .table {
+	width: 1000px;
 	display: table;
 	background-color: #d9edf7;
 }
 
-/* Доделать таблицу */
+.row {
+	display: table-row;
+	background-color: #f2dede;
+	border-color: #b94a48;
+}
+.cell {
+	display: table-cell;
+	background-color: #fbeed5;
+	border-color: #c09853;
+}
+
+.fixed {
+	position: fixed;
+	top: 5px;
+}
+
+/* Использовать z-index */
