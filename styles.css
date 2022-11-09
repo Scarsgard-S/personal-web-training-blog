@@ -302,12 +302,67 @@ figcaption {
 	/* border:2px solid #007dff; */
 }
 
-.hidden-text {
+.hidden-text-1 {
 	position: absolute;
 	left: 80px;
-	top: 315px;
+	top: 300px;
 	color: #9f9f9f;
 }
 
+.margin-centring {
+	width: 400px;
+	margin: 50px auto 0;
+}
 
+.hidden-text-2 {
+	position: absolute;
+	width: 400px;
+	left: 270px;
+	top: 480px;
+	color: #9f9f9f;
+}
 
+.box-border-1 {
+	width: 1000px;
+	background-color: #808080;
+}
+
+.box-sizing-text-1 {
+	width: 100%;
+	padding: 100px;
+	/* box-sizing: border-box; */
+}
+
+.box-border-2 {
+	width: 1000px;
+	background-color: #808080;
+}
+
+.box-sizing-text-2 {
+	margin-top: 50px;
+	width: 100%;
+	padding: 100px;
+	box-sizing: border-box;
+}
+
+.explanation {
+	color: #9f9f9f;
+	width: 550px;
+	margin: 0 auto;
+}
+
+.lorem-ipsum-png-block {
+	display: inline-block;
+}
+
+.lorem-ipsum-png {
+	width: 300px;
+	vertical-align: middle;
+}
+
+.table {
+	display: table;
+	background-color: #d9edf7;
+}
+
+/* Доделать таблицу */
