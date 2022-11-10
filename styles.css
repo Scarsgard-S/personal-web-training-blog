@@ -382,4 +382,17 @@ figcaption {
 	top: 5px;
 }
 
-/* Использовать z-index */
+.ball {
+	width: 25%;
+}
+
+.ball-1 {
+	position: relative;
+	left: 150px;
+	z-index: 30;
+}
+
+.ball-2 {
+	position: relative;
+	z-index: 20;
+}
